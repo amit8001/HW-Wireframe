@@ -3,16 +3,16 @@ body{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: '960px';
     font-size: '18px';
-    margin: 10px 225px;
+    margin: 10px 260px;
 }
 body header, body nav {
     background-color: #ebebeb;
     color: #777;
     margin-top: 10px;
-    /*width: 1167px;*/
+    /* width: 1167px; */
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 section {
     background-color: #ebebeb;
@@ -20,8 +20,8 @@ section {
     color: #777;
     text-align: center;
     float: left;
-    margin-top: 22px;
-   /* margin-bottom: 10px;*/
+    margin-top: 16px;
+    /* margin-bottom: 10px; */
 }
 aside {
     background-color: #ebebeb;
@@ -29,46 +29,43 @@ aside {
     color: #777;
     text-align: center;
     float: right;
-    margin-top: 22px;
-   /* margin-bottom: 10px;
-    margin-right: 0px;*/
+    margin-top: 16px;
 }
 footer {
     background-color: #ebebeb;
-    /*width: 1167px;*/
+    /* width: 1167px; */
     color: #777;
     text-align: center;
-    margin-top: 440px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    margin-top: 335px;
+    padding-top: 11px;
+    padding-bottom: 11px;
 }
 
 article {
     color: #ebebeb;
     background-color: #777;
     margin: 10px 10px 20px 10px;
-    height: 305px;
-    padding-top: 15px;
- 
+    height: 179px;
+    padding-top: 40px;
 }
  p{
     color: #777;
     background-color: #ebebeb;
     }
-section, aside{
-    height: 400px;
+section, aside {
+        height: 301px;
 }
 #hdr {
     margin: 10px 10px 10px 10px;
-    /*width: 600px;*/
-    margin-top: 20px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    /* width: 600px; */
+    margin-top: 41px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 #ct {
     padding: 10px;
     margin: 10px 10px 10px 10px;
-    /*width: 578px;*/
-    padding-bottom: 50px;
-    padding-top: 50px;
+    /* width: 578px; */
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
