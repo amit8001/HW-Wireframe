@@ -39,6 +39,7 @@ footer {
     margin-top: 335px;
     padding-top: 11px;
     padding-bottom: 11px;
+    clear: both;
 }
 
 article {
